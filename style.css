@@ -1,3 +1,10 @@
 .COXINHA-FRANGO {
+    transition-duration: 0.5s;
+    width: 250px;
     box-shadow: 0px 0px 30px rgb(0, 0, 0);
+}
+
+.COXINHA-FRANGO:hover {
+   transition-duration: 0.5s;
+    width: 400px;
 }
